@@ -36,4 +36,12 @@ Stretch Goals for the machine to learn
 * Haikus must make sense.
 * All haikus will follow proper grammatical structure.
 
+## Technologies Used
+* Python
+* Natural Language Toolkit
+* Travis CI
+* SQLAlchemy
+* PostgreSQL
+* jQuery/AJAX
+* Flask
 
