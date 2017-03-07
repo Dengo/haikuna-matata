@@ -13,6 +13,8 @@ Haikuna-Matata generates completely original, correctly formatted haiku based on
 
 ![image](https://cloud.githubusercontent.com/assets/19498387/23668761/a18b77ca-0327-11e7-8df1-d7bb99bbc37d.png)
 
+![image](https://cloud.githubusercontent.com/assets/19498387/23668796/b9c1b476-0327-11e7-8935-d00d086f847d.png)
+
 Basic Haiku Requirements
 ---
 All Haiku are defined by the following structure
