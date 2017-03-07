@@ -11,7 +11,7 @@
 
 Haikuna-Matata generates completely original, correctly formatted haiku based on user input. A user types a word into the console when running the program, and the program will return a 5/7/5 style haiku built around the user's input. Given no user input, the haiku generated will be centered around a randomly generated word or pair of words. Users are then asked to rate the coherence of each line of the haiku. If a line is up-voted, the frequency of those word pairings will increase in the database. If a line is down-voted, the frequency of those word pairings will decrease in the database. Overtime, this will train the generator to create more coherent haiku.
 
-https://cloud.githubusercontent.com/assets/19498387/23668761/a18b77ca-0327-11e7-8df1-d7bb99bbc37d.png
+![image](https://{https://cloud.githubusercontent.com/assets/19498387/23668761/a18b77ca-0327-11e7-8df1-d7bb99bbc37d.png})
 
 Basic Haiku Requirements
 ---
