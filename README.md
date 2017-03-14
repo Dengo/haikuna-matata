@@ -8,7 +8,7 @@
 
 ### My responsibilities
 
-In order to complete this project, I had to teach myself Python over the course of a few days and learn to utilizes the tools provided through NLTK. My responsibilities included developing methods to ensure proper syllable count, to parse large batches of txt files into unigrams with (key->value) associations between word frequencies -> count of occurrence in the text. Additionally, I wrote methods to identify parts of speech, and collaborated on a method to weed out parts of speech that sounded grammatically incorrect at the end of haiku lines. 
+In order to complete this project, I had to teach myself Python over the course of a few days and learn to utilizes the tools provided through NLTK. My responsibilities included developing methods to ensure proper syllable count, to parse large batches of txt files into unigrams with (key->value) associations between word frequencies -> count of occurrence in the text. Additionally, I wrote methods to identify parts of speech, and collaborated on a method to weed out parts of speech that sounded grammatically incorrect at the end of haiku lines. I also collaborated on adding AJAX to the haiku and user-feedback form.
 
 
 ## Description
